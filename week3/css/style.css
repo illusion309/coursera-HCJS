@@ -1,0 +1,41 @@
+
+button {
+    margin-bottom: 2%;
+}
+
+#Menu-title {
+    padding-top: 3%;
+}
+
+
+
+#Menu-Items {
+    margin-top: 3%;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.menu-box {
+    padding: 0 2%;
+    background-color: #f1faee;
+    min-height: 1000px;
+}
+
+.menu-dish {
+    
+    background-color: #e5e5e5;
+    padding: 1%;
+    margin-top: 4%;
+}
+
+.nav-color {
+    background-color: #d00000;
+}
+
+.nav-item:hover {
+    
+    width: 100%;
+    background-color: #37061717;
+}
